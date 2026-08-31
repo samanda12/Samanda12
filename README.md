@@ -1,66 +1,92 @@
-# 👩🏻‍💻 SAMANDA G MACIEIRA
+# 👩🏻‍💻 Samanda G. Macieira
 
-**``**
+### Olá! Eu sou a Samanda 👋🏻
 
-👩🏻‍💻 Olá, eu sou Samanda Geraldo Macieira!
+💻 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação**
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) pela Faculdade Descomplica EAD e estou construindo minha trajetória profissional na área de Tecnologia.
-Minha experiência profissional começou nas áreas administrativa, logística e segurança do trabalho, experiências que me ajudaram a desenvolver organização, responsabilidade, comunicação e capacidade de resolver problemas.
-Hoje, estou direcionando essas habilidades para a tecnologia, explorando o desenvolvimento de sistemas, programação, banco de dados e desenvolvimento web. 🚀
-### 🤖 Linguagens e Tecnologias
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** pela **Faculdade Descomplica EAD** e estou construindo minha trajetória profissional na área de Tecnologia.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-    
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github.com/samanda12" 
-  />
+Minha experiência profissional começou nas áreas **administrativa, logística e segurança do trabalho**, onde desenvolvi habilidades como organização, responsabilidade, comunicação, trabalho em equipe e resolução de problemas.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="(https://github.com/samanda12)" 
-  />
+Atualmente, estou direcionando essas experiências para a **Tecnologia**, aprofundando meus conhecimentos em desenvolvimento de sistemas, programação, banco de dados e desenvolvimento web. 🚀
 
-</p>
+Tenho interesse em aprender continuamente, transformar ideias em soluções e evoluir cada vez mais como desenvolvedora.
 
+---
 
+## 🚀 Tecnologias e Ferramentas
 
+<div align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" alt="TypeScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" alt="Java"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL" alt="MySQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub" alt="GitHub"/>
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* 💻 Desenvolvimento Web
+* 🗄️ Banco de Dados e SQL
+* 🌐 JavaScript
+* ⚙️ Node.js
+* 🎨 HTML e CSS
+* 🔧 Git e GitHub
+* 📊 Análise e desenvolvimento de sistemas
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samanda12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanda12&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+---
+
+## 🌱 Um pouco sobre mim
+
+✨ Em transição e crescimento na área de Tecnologia
+💻 Desenvolvedora em formação
+📚 Apaixonada por aprender coisas novas
+🚀 Buscando transformar conhecimento em projetos
+🧠 Sempre procurando evoluir profissionalmente
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="left">
+
+<a href="https://github.com/samanda12" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/samanda-geraldo-macieira-b8ba53155/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
+### 💜 "Transformando aprendizado em código e ideias em soluções."
+
+</div>
