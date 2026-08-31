@@ -52,18 +52,6 @@ Tenho interesse em aprender continuamente, transformar ideias em soluções e ev
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samanda12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanda12&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
----
-
 ## 🌱 Um pouco sobre mim
 
 ✨ Em transição e crescimento na área de Tecnologia
@@ -87,6 +75,6 @@ Tenho interesse em aprender continuamente, transformar ideias em soluções e ev
 </a>
 
 </div>
-### 💜 "Transformando aprendizado em código e ideias em soluções."
+ 💜 "Transformando aprendizado em código e ideias em soluções."
 
 </div>
