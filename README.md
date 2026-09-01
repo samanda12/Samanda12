@@ -6,7 +6,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** pela **Faculdade Descomplica EAD** e estou construindo minha trajetória profissional na área de Tecnologia.
 
-Minha experiência profissional começou nas áreas **administrativa, logística e segurança do trabalho**, onde desenvolvi habilidades como organização, responsabilidade, comunicação, trabalho em equipe e resolução de problemas.
+Minha experiência profissional começou nas áreas **administrativa, logística e segurança do trabalho e também era da área da saúde.**, onde desenvolvi habilidades como organização, responsabilidade, comunicação, trabalho em equipe e resolução de problemas.
 
 Atualmente, estou direcionando essas experiências para a **Tecnologia**, aprofundando meus conhecimentos em desenvolvimento de sistemas, programação, banco de dados e desenvolvimento web. 🚀
 
