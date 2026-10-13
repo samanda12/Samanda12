@@ -62,7 +62,7 @@ Tenho interesse em aprender continuamente, transformar ideias em soluções e ev
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Vamos nos conectar??
 
 <div align="left">
 
